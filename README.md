@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&duration=2000&pause=1000&color=FF0071&width=435&lines=Jetur+Gavli;I+am+a+coder;Ai+%7C+Scripting+%7C+Website)](https://git.io/typing-svg)
 
 I'm a 25-year-old boy pursuing computer engineering. I love learning and exploring new skills :)
-<img width="20%" align="right" style="padding-left : -100%"  src="https://media.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" />
+<img width="20%" align="right" style="padding-left : -100%"  src="https://raw.githubusercontent.com/jeturgavli/jeturgavli/main/Media/01.gif" />
 - 🔭 I’m currently working on  web scraping 
 - 🌱 I’m currently exploring Machine Learning
 - 🤔 I’m looking for a good project
