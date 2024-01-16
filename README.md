@@ -8,7 +8,7 @@ I'm a 25-year-old boy pursuing computer engineering. I love learning and explori
 - 💬 Not sure if I am good at programming or good at Googling :')
 - 😄 Pronouns: He/Him
 
-<h1 align="left"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> <b> Fun Fact:</b> </h1>
+<h1 align="left"> <img src="https://raw.githubusercontent.com/jeturgavli/jeturgavli/main/Media/01.gif" width="25"> <b> Fun Fact:</b> </h1>
 
 ###
 <p align="left">I'm Jetur , a master of the digital realm and all things code-related. When I'm not typing away at my keyboard, I'm probably exploring new frontiers in the world of pizza toppings or trying to convince my cat to code with me.I started my coding journey at a young age, hacking into my parents' computer to change the wallpaper to pictures of cats. Since then, I've honed my skills and can now create entire program with nothing but a bag of Cheetos and a steady stream of coffee.</p>
