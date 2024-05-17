@@ -1,3 +1,5 @@
+![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/81bb4b165684019.640b6038d133e.gif)
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&duration=2000&pause=1000&color=FF0071&width=435&lines=Jetur+Gavli;I+am+a+coder;Ai+%7C+Scripting+%7C+Website)](https://git.io/typing-svg)
 
 I'm a 25-year-old boy pursuing computer engineering. I love learning and exploring new skills :)
