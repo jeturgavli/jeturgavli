@@ -50,6 +50,9 @@ I'm a 25-year-old boy pursuing computer engineering. I love learning and explori
 
 <div align="left">
 
+[![An image of @jeturgavli's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jeturgavli)](https://holopin.io/@jeturgavli)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
 <h2> <img src="https://media0.giphy.com/media/LOnt6uqjD9OexmQJRB/giphy.gif?cid=ecf05e47ifafkcs6qc73j85iclmrawubddbv7ksbitxwtasp&ep=v1_stickers_search&rid=giphy.gif&ct=g" width="30"> <b> Connect With Me <b> </h2>
 <div align="left">
 
@@ -58,8 +61,6 @@ I'm a 25-year-old boy pursuing computer engineering. I love learning and explori
 [![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/jetur_gavli_23)
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jeturgavli1in1@gmail.com) 
 </div>
-
-[![An image of @jeturgavli's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jeturgavli)](https://holopin.io/@jeturgavli)
 
 <h1 align="left"> <img src="https://media0.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif?cid=ecf05e47lx1thg8e61tjqfpr4zemby622so2pa1j3sqcsbxp&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="25"> Github Stats </h1>
 <div align="left">
