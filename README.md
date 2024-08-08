@@ -77,13 +77,7 @@ I'm a 25-year-old boy pursuing computer engineering. I love learning and explori
   <img src="https://streak-stats.demolab.com?user=jeturgavli&locale=en&mode=daily&theme=radical&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
-###
+## My GitHub Repositories
 
-<!-- <style>
-  .scaled-image {
-    color: red;
-    float:left;
-    transform: scale(1);
-    display: block;
-  }
-</style> -->
+<!-- REPOS-START -->
+<!-- REPOS-END -->
