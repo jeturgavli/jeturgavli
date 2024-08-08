@@ -68,7 +68,7 @@ I'm a 25-year-old boy pursuing computer engineering. I love learning and explori
 <h1 align="left"> <img src="https://media0.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif?cid=ecf05e47lx1thg8e61tjqfpr4zemby622so2pa1j3sqcsbxp&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="25"> Github Stats </h1>
 <div align="left">
 
-  <img src="Media/Deadpool.png" alt="Scaled Up" class="scaled-image" style="max-width: 60%;">
+  <img src="Media/Deadpool.png" alt="Scaled Up" class="scaled-image" style="max-width: 50%;">
 
   <img src="https://github-readme-stats.vercel.app/api?username=jeturgavli&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
   <!-- 
