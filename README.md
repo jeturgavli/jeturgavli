@@ -86,6 +86,7 @@ I'm a 25-year-old boy pursuing computer engineering. I love learning and explori
 | Digital-Dumpster | This is my secret stash of digital oddities, where I store everything from fish burgers to other quirky experiments. It’s not fancy, but when I need something, it’s my go-to spot. Think of it as my digital junk drawer – not perfect, but it gets the job done! | [Link](https://github.com/jeturgavli/Digital-Dumpster) |
 | Easy-Coordinate-Converter-DMS-to-DD | Hey there! I'm a 25-year-old coder with a knack for cool projects, working in a forest office. Check out my latest creation: a nifty app that converts DMS coordinates to Decimal Degrees. It's easy to use, and if you need a laugh or a cool feature, I've got you covered! Click the image to visit my GitHub profile and explore more of my work. | [Link](https://github.com/jeturgavli/Easy-Coordinate-Converter-DMS-to-DD) |
 | fake-hack | This project simulates a fun and interactive hacking scenario. | [Link](https://github.com/jeturgavli/fake-hack) |
+| GITHUB_ENHANCER | GITHUB_ENHANCER PROGRAM | [Link](https://github.com/jeturgavli/GITHUB_ENHANCER) |
 | ImageToText | Screenshot Image to Text Data Extract into excel File | [Link](https://github.com/jeturgavli/ImageToText) |
 | jeturgavli | No description | [Link](https://github.com/jeturgavli/jeturgavli) |
 | Office_Work | No description | [Link](https://github.com/jeturgavli/Office_Work) |
