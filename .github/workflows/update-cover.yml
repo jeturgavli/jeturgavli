@@ -1,0 +1,44 @@
+name: Update Random Cover
+
+on:
+  schedule:
+    - cron: "*/5 * * * *"   # har 5 min me chalega
+  workflow_dispatch:
+
+jobs:
+  update-cover:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        with:
+          ref: cover-updater   # hamesha isi branch pe kaam hoga
+
+      - name: Setup branch (if not exists)
+        run: |
+          git fetch origin
+          if ! git rev-parse --verify origin/cover-updater; then
+            git checkout -b cover-updater
+            git push origin cover-updater
+          else
+            git checkout cover-updater
+          fi
+
+      - name: Pick random file
+        id: random
+        run: |
+          files=($(find Covers -type f \( -iname "*.jpg" -o -iname "*.png" -o -iname "*.gif" \)))
+          random_file=${files[$RANDOM % ${#files[@]}]}
+          echo "file=$random_file" >> $GITHUB_OUTPUT
+
+      - name: Update README (only MasterHead line)
+        run: |
+          sed -i "s|^!\[MasterHead\](.*)|![MasterHead](https://raw.githubusercontent.com/${GITHUB_REPOSITORY}/cover-updater/${{ steps.random.outputs.file }})|" README.md
+
+      - name: Commit and Push to cover-updater
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "chore: update random cover [skip ci]" || echo "No changes to commit"
+          git push origin cover-updater
