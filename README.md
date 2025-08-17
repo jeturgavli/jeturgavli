@@ -2,13 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&duration=2000&pause=1000&color=FF0071&width=435&lines=Jetur+Gavli;I+am+a+coder;Ai+%7C+Scripting+%7C+Website)](https://git.io/typing-svg)
 
-<p align="center">
-  <a href="https://tryhackme.com/p/jeturgavli">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/jeturgavli.png?t=0" alt="Your Image Badge" />
-  </a>
-</p>
-
-<!--badge-update--> Updated: Sun Aug 17 10:40:27 UTC 2025
 
 I'm a 25-year-old boy pursuing computer engineering. I love learning and exploring new skills :)
 <img width="20%" align="right" style="padding-left : -100%"  src="https://raw.githubusercontent.com/jeturgavli/jeturgavli/main/Media/02.gif" />
@@ -45,6 +38,18 @@ I'm a 25-year-old boy pursuing computer engineering. I love learning and explori
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" width="52" alt="github logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" width="52" alt="github logo"  />
 </div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
+# TryHackMe Badge
+
+<p align="LEFT">
+  <a href="https://tryhackme.com/p/jeturgavli">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/jeturgavli.png?t=0" alt="Your Image Badge" />
+  </a>
+</p>
+
+<!--badge-update--> Updated: Sun Aug 17 10:40:27 UTC 2025
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
