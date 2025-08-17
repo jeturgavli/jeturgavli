@@ -2,7 +2,13 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&duration=2000&pause=1000&color=FF0071&width=435&lines=Jetur+Gavli;I+am+a+coder;Ai+%7C+Scripting+%7C+Website)](https://git.io/typing-svg)
 
-[![TryHackMe Badge](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=5437920)](https://tryhackme.com/p/5437920)
+<p align="center">
+  <a href="https://tryhackme.com/p/jeturgavli">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/jeturgavli.png?t=1755427227" alt="Your Image Badge" />
+  </a>
+</p>
+
+<!--badge-update--> Updated: Sun Aug 17 10:40:27 UTC 2025
 
 I'm a 25-year-old boy pursuing computer engineering. I love learning and exploring new skills :)
 <img width="20%" align="right" style="padding-left : -100%"  src="https://raw.githubusercontent.com/jeturgavli/jeturgavli/main/Media/02.gif" />
