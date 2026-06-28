@@ -1,0 +1,93 @@
+[
+  {
+    "id": "a-commit",
+    "tier": 1,
+    "desc": "One of my commit sha starts with \"a\".",
+    "body": "- <a href=\"https://github.com/jeturgavli/Digital-Dumpster/commit/a940e54ebc709fb270adbd7daec80ef626bdd7a1\"><strong>a</strong>940e54ebc709fb270adbd7daec80ef626bdd7a1</a>",
+    "image": "https://my-badges.github.io/my-badges/a-commit.png"
+  },
+  {
+    "id": "ab-commit",
+    "tier": 2,
+    "desc": "One of my commit sha starts with \"ab\".",
+    "body": "- <a href=\"https://github.com/jeturgavli/Quote-Image-Generator-for-Instagram/commit/ab75925ed1ebf82e8b0f494f1593013808d17d5d\"><strong>ab</strong>75925ed1ebf82e8b0f494f1593013808d17d5d</a>",
+    "image": "https://my-badges.github.io/my-badges/ab-commit.png"
+  },
+  {
+    "id": "covid-19",
+    "tier": 0,
+    "desc": "I rolled before Covid-19: Survivor of the Great TP Shortage",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/covid-19.png"
+  },
+  {
+    "id": "favorite-word",
+    "tier": 0,
+    "desc": "My favorite word is \"added\".",
+    "body": "My favorite commit message words are:\n\n1. added (used 29 times)\n2. merge (used 20 times)\n3. pull (used 19 times)\n4. request (used 19 times)\n5. fix (used 18 times)",
+    "image": "https://my-badges.github.io/my-badges/favorite-word.png"
+  },
+  {
+    "id": "fix-3",
+    "tier": 2,
+    "desc": "I did 3 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/jeturgavli/testing_bot/commit/ca4dee18a8e98d24ea3faf960fba11de1ccd96a0\">ca4dee1</a>: fix #4\n- <a href=\"https://github.com/jeturgavli/testing_bot/commit/2439f8080056f0fa092c30f27e53c284245bbf9c\">2439f80</a>: fix #3\n- <a href=\"https://github.com/jeturgavli/testing_bot/commit/f823f22153471fe2e2ff02d2b98919bd6a6ce1f8\">f823f22</a>: fix #2",
+    "image": "https://my-badges.github.io/my-badges/fix-3.png"
+  },
+  {
+    "id": "github-anniversary-5",
+    "tier": 0,
+    "desc": "I joined GitHub 5 years ago.",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/github-anniversary-5.png"
+  },
+  {
+    "id": "github-anniversary-10",
+    "tier": 0,
+    "desc": "I joined GitHub 10 years ago.",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/github-anniversary-10.png"
+  },
+  {
+    "id": "polite-coder",
+    "tier": 0,
+    "desc": "I am a polite coder.",
+    "body": "I use words like \"thanks\" and \"please\" in my issues:\n\n- <a href=\"https://github.com/Rahulpradeepan/About-Me/issues/1\">#1</a>: It's not displaying your GitHub profile README.\n- <a href=\"https://github.com/gayathrirayavarapu/gayathrirayavarapu/issues/1\">#1</a>: Linkedin Url Not Working\n- <a href=\"https://github.com/Dhruviba/CAPTURE-VIDEO-FRAME/issues/2\">#2</a>: Review these updates ❤️ \n- <a href=\"https://github.com/amyyalex/simple-contribution/issues/252\">#252</a>: Urgent: Template Code Issue 💔 \n- <a href=\"https://github.com/Design-and-Code/support/issues/1153\">#1153</a>: Please invite me to the Design and Code Community\n\n And many more...",
+    "image": "https://my-badges.github.io/my-badges/polite-coder.png"
+  },
+  {
+    "id": "public-keys-1",
+    "tier": 1,
+    "desc": "I have one public key",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/public-keys-1.png"
+  },
+  {
+    "id": "spooky-commit",
+    "tier": 0,
+    "desc": "I committed on the Halloween! Boo!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/jeturgavli/Quote-Image-Generator-for-Instagram/commit/0fe70592c8a6ad931453700a8c31d50da8648677\">0fe7059</a>",
+    "image": "https://my-badges.github.io/my-badges/spooky-commit.png"
+  },
+  {
+    "id": "sleepy-coder",
+    "tier": 0,
+    "desc": "I am a sleepy coder.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/jeturgavli/JETRock-GeoTagger/commit/f04efc00f158a7ccf71586fa998c4fa4c1914c03\">f04efc0</a>\n- <a href=\"https://github.com/jeturgavli/Digital-Dumpster/commit/2b71b3c288e42d9cd8493bcf971035f1ae372bd1\">2b71b3c</a>\n- <a href=\"https://github.com/jeturgavli/Quote-Image-Generator-for-Instagram/commit/0fe70592c8a6ad931453700a8c31d50da8648677\">0fe7059</a>\n- <a href=\"https://github.com/jeturgavli/Jetrock_Gif_Profiles/commit/f3423e9a14bb9d8e69f82f7dcad7f2b04c4acef6\">f3423e9</a>\n- <a href=\"https://github.com/jeturgavli/Digital-Dumpster/commit/1b0cd452704b1ac73cb734eaa07e8d0434b66b5a\">1b0cd45</a>\n- <a href=\"https://github.com/jeturgavli/Mini_Projects/commit/a7b05e90d40be5821d58d0c9e25a5859db13ef3b\">a7b05e9</a>",
+    "image": "https://my-badges.github.io/my-badges/sleepy-coder.png"
+  },
+  {
+    "id": "morning-commits",
+    "tier": 0,
+    "desc": "I commit in the morning.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/jeturgavli/Digital-Dumpster/commit/97f2a201ddcdd06474ce9714f225c570487b15bd\">97f2a20</a>\n- <a href=\"https://github.com/jeturgavli/the-button-that-does-nothing/commit/7217989a17f66ffa9dbf693e96829bba481f447c\">7217989</a>\n- <a href=\"https://github.com/jeturgavli/Quote-Image-Generator-for-Instagram/commit/e9ce389d1ce3eee9d01b4795df480eb8a5e4e4b1\">e9ce389</a>\n- <a href=\"https://github.com/jeturgavli/Digital-Dumpster/commit/741d258ba01439871ce5a912b3e1903a2ce031cf\">741d258</a>\n- <a href=\"https://github.com/jeturgavli/Office_Work/commit/2e66a764f159910575d4bd8063378e3beca1d7b2\">2e66a76</a>\n- <a href=\"https://github.com/jeturgavli/Digital-Dumpster/commit/7fe241b44551ac74a2047009a9c7380799417c8b\">7fe241b</a>",
+    "image": "https://my-badges.github.io/my-badges/morning-commits.png"
+  },
+  {
+    "id": "evening-commits",
+    "tier": 0,
+    "desc": "I commit in the evening.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/jeturgavli/the-button-that-does-nothing/commit/51342e166c5c4a243a6a137a6f7f726b51b9ee63\">51342e1</a>\n- <a href=\"https://github.com/jeturgavli/Jetrock_Gif_Profiles/commit/912023c2270bbbaada740f6adf19010faa66ba5c\">912023c</a>\n- <a href=\"https://github.com/jeturgavli/testing_bot/commit/222bf13e53517fd7bab8d447987d22bf6e951212\">222bf13</a>\n- <a href=\"https://github.com/jeturgavli/testing_bot/commit/1465ee6fcce457666187b72658dbd27c7430d67d\">1465ee6</a>\n- <a href=\"https://github.com/jeturgavli/testing_bot/commit/c506c85329c62bca1f18ae4df7234aa86e1cd4d2\">c506c85</a>\n- <a href=\"https://github.com/jeturgavli/testing_bot/commit/05e96778393c731cf181d59095332a9eb2601bee\">05e9677</a>",
+    "image": "https://my-badges.github.io/my-badges/evening-commits.png"
+  }
+]
