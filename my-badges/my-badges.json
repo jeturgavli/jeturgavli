@@ -1,0 +1,37 @@
+[
+  {
+    "id": "covid-19",
+    "tier": 0,
+    "desc": "I rolled before Covid-19: Survivor of the Great TP Shortage",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/covid-19.png"
+  },
+  {
+    "id": "github-anniversary-5",
+    "tier": 0,
+    "desc": "I joined GitHub 5 years ago.",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/github-anniversary-5.png"
+  },
+  {
+    "id": "github-anniversary-10",
+    "tier": 0,
+    "desc": "I joined GitHub 10 years ago.",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/github-anniversary-10.png"
+  },
+  {
+    "id": "polite-coder",
+    "tier": 0,
+    "desc": "I am a polite coder.",
+    "body": "I use words like \"thanks\" and \"please\" in my issues:\n\n- <a href=\"https://github.com/Rahulpradeepan/About-Me/issues/1\">#1</a>: It's not displaying your GitHub profile README.\n- <a href=\"https://github.com/gayathrirayavarapu/gayathrirayavarapu/issues/1\">#1</a>: Linkedin Url Not Working\n- <a href=\"https://github.com/Dhruviba/CAPTURE-VIDEO-FRAME/issues/2\">#2</a>: Review these updates ❤️ \n- <a href=\"https://github.com/amyyalex/simple-contribution/issues/252\">#252</a>: Urgent: Template Code Issue 💔 \n- <a href=\"https://github.com/Design-and-Code/support/issues/1153\">#1153</a>: Please invite me to the Design and Code Community\n\n And many more...",
+    "image": "https://my-badges.github.io/my-badges/polite-coder.png"
+  },
+  {
+    "id": "public-keys-1",
+    "tier": 1,
+    "desc": "I have one public key",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/public-keys-1.png"
+  }
+]
