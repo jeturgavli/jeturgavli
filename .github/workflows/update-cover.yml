@@ -1,0 +1,64 @@
+name: Update Random Cover
+
+on:
+  schedule:
+    - cron: "*/5 * * * *"   # har 5 min me chalega
+  workflow_dispatch:
+
+jobs:
+  update-cover:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Pick random unique file in shuffle mode
+        id: random
+        run: |
+          files=($(find Covers -type f \( -iname "*.jpg" -o -iname "*.png" -o -iname "*.gif" \)))
+
+          # create .used_covers if it doesn't exist
+          touch .used_covers
+          used=($(cat .used_covers))
+
+          # filter out used files
+          available=()
+          for f in "${files[@]}"; do
+            skip=false
+            for u in "${used[@]}"; do
+              if [[ "$f" == "$u" ]]; then
+                skip=true
+                break
+              fi
+            done
+            if [ "$skip" = false ]; then
+              available+=("$f")
+            fi
+          done
+
+          # if no available files, reset used list
+          if [ ${#available[@]} -eq 0 ]; then
+            echo "All files used, resetting used list."
+            > .used_covers
+            available=("${files[@]}")
+          fi
+
+          # pick random file
+          random_file=${available[$RANDOM % ${#available[@]}]}
+
+          # update .used_covers
+          echo "${used[@]} $random_file" | tr ' ' '\n' > .used_covers
+
+          echo "file=$random_file" >> $GITHUB_OUTPUT
+
+      - name: Update README (only MasterHead line)
+        run: |
+          sed -i "s|^!\[MasterHead\](.*)|![MasterHead](https://raw.githubusercontent.com/${GITHUB_REPOSITORY}/main/${{ steps.random.outputs.file }})|" README.md
+
+      - name: Commit and Force Push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md .used_covers
+          git commit -m "chore: update random cover [skip ci]" --amend || true
+          git push origin main --force
